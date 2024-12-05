@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @icewasovercoded
-- 👀 I’m interested in Gaming, and on the occasion programming
-- 🌱 I’m currently studying HTML / CSS minorly, and C#
+- Hi, I’m @TCorpClass3
+- Big gamer. Love networks. Hate networks. Love programming. Hate programming.
+- Python, C#, SQL
 
 <!---
 icewasovercoded/icewasovercoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
